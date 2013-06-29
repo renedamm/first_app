@@ -1,0 +1,9 @@
+Thoughts on Ruby on Rails:
+
+- That file and folder structure created by "rails new" may be nice but it makes me
+  wonder... "Why do I need all this for an application that does nothing?  Why can't
+  my application simply use all this stuff as defaults and then build on it and
+  adapt it?"
+
+- The scaffolding/generation hints at a lot of boilerplate code being necessary.  If
+  code is simple and concise, it should never require auto-generation.
